@@ -1,0 +1,6 @@
+{
+  "name": "OpenRouter AI Chatbot",
+  "description": "Production-ready, highly optimized AI chatbot web application powered by Flask, OpenRouter API, and vanilla frontend for Render deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
